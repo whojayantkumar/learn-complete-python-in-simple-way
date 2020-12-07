@@ -1,0 +1,5 @@
+18/06/2020 07:41:00 PM:ERROR:invalid literal for int() with base 10: 'ten'
+Traceback (most recent call last):
+  File "<ipython-input-1-7c39a7fd2b3e>", line 6, in <module>
+    y=int(input("Enter second number:"))
+ValueError: invalid literal for int() with base 10: 'ten'
